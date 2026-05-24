@@ -73,5 +73,6 @@ print(response)
 * **開發者**：歐靜嬡 (Skylar Ou)
 * **專案類型**：生成式 AI 應用 / 檢索增強生成 (RAG) / LangChain 實作
 * **GitHub Repository**：[Al-Movie-Recommendation](https://www.google.com/search?q=https://github.com/SkylarOu9005/Al-Movie-Recommendation)
+* **開發日期**：2025/04/21 
 
 ---
